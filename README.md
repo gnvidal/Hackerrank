@@ -20,3 +20,5 @@
 * Loops [[code](https://github.com/gnvidal/Hackerrank_solutions/blob/main/CODE/Introduction/5Loops.py)]
 * Write a function [[code](https://github.com/gnvidal/Hackerrank_solutions/blob/main/CODE/Introduction/6Write_a_function.py)]
 * Print function [[code](https://github.com/gnvidal/Hackerrank_solutions/blob/main/CODE/Introduction/7Print_Function.py)]
+
+**BASIC DATA TYPES**
