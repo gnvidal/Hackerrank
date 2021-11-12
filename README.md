@@ -21,4 +21,6 @@
 * Write a function [[code](https://github.com/gnvidal/Hackerrank_solutions/blob/main/CODE/Introduction/6Write_a_function.py)]
 * Print function [[code](https://github.com/gnvidal/Hackerrank_solutions/blob/main/CODE/Introduction/7Print_Function.py)]
 
-**BASIC DATA TYPES**
+**BASIC DATA TYPES** [[code]( )]
+* List Comprehensions [[code](https://github.com/gnvidal/Hackerrank_solutions/blob/main/CODE/Introduction/8List%20_Comprehensions.py)]
+* 
