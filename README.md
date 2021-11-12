@@ -21,7 +21,7 @@
 * Write a function [[code](https://github.com/gnvidal/Hackerrank_solutions/blob/main/CODE/Introduction/6Write_a_function.py)]
 * Print function [[code](https://github.com/gnvidal/Hackerrank_solutions/blob/main/CODE/Introduction/7Print_Function.py)]
 
-**BASIC DATA TYPES** [[code]( )]
+**BASIC DATA TYPES** 
 * List Comprehensions [[code](https://github.com/gnvidal/Hackerrank_solutions/blob/main/CODE/Basic_Data_Types/8List%20_Comprehensions.py)]
-* Find the Runner-Up Score![[code](https://github.com/gnvidal/Hackerrank_solutions/blob/main/CODE/Basic_Data_Types/9Find_the_Runner-Up_Score!.py)]
+* Find the Runner-Up Score! [[code](https://github.com/gnvidal/Hackerrank_solutions/blob/main/CODE/Basic_Data_Types/9Find_the_Runner-Up_Score!.py)]
 * 
