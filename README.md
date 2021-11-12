@@ -23,4 +23,5 @@
 
 **BASIC DATA TYPES** [[code]( )]
 * List Comprehensions [[code](https://github.com/gnvidal/Hackerrank_solutions/blob/main/CODE/Basic_Data_Types/8List%20_Comprehensions.py)]
+* Find the Runner-Up Score![[code](https://github.com/gnvidal/Hackerrank_solutions/blob/main/CODE/Basic_Data_Types/9Find_the_Runner-Up_Score!.py)]
 * 
