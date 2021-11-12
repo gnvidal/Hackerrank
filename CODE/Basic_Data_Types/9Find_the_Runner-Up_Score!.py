@@ -5,4 +5,4 @@ if __name__ == '__main__':
     print(arr[-2])
     #list(set(arr)) obtener el conjunto de los datos y hacerlos lista
     #sorted() ordena los datos de menor a mayor
-    #print(valor)
+    #arr[-2] saca el dato del subcampeon
