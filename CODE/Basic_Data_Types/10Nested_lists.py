@@ -1,14 +1,15 @@
-def record(name, score):
-    pass
 if __name__ == '__main__':
-    students=[]
+    results=[]
+    lowests=[]
+    
     for _ in range(int(input())):
         name = input()
         score = float(input())
-        record(score, name)
-        students.append([score,name])
-    students=sorted(students)
-    names = sorted(list(set([x[1] for x in students])))
-    print(names[1])
-    print(names[2])
-    
+        results.append([score,name])
+        
+    second_lowest=results[1]
+
+    if score==second_lowest:
+        lowests.append(name)
+    for name in sorted(lowests):
+        print(name, end="\n")
