@@ -1,15 +1,18 @@
-if __name__ == '__main__':
-    results=[]
-    lowests=[]
-    
-    for _ in range(int(input())):
-        name = input()
-        score = float(input())
-        results.append([score,name])
-        
-    second_lowest=results[1]
+results = []
+second_lowest_names = []
+scores = set()
 
-    if score==second_lowest:
-        lowests.append(name)
-    for name in sorted(lowests):
-        print(name, end="\n")
+for _ in range(int(input())):
+    name = input()
+    score = float(input())
+    results.append([name, score])
+    scores.add(score)
+        
+second_lowest = sorted(scores)[1]
+
+for name, score in results:
+    if score == second_lowest:
+        second_lowest_names.append(name)
+
+for name in sorted(second_lowest_names):
+    print(name, end='\n')
