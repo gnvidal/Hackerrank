@@ -3,17 +3,17 @@ if __name__ == '__main__':
     Lista=[]
     for _ in range(N):
         code=input().split()
-    if "insert"==code[0]:
-        Lista.insert(code[1], code[2])
-    elif "remove"==code[0]:
-        Lista.remove(int(code[1]))
-    elif "append"==code[0]:
-        Lista.append(int(code[1]))
-    elif "sort"==code[0]:
-        Lista.sort()
-    elif "pop"==code[0]:
-        Lista.pop()
-    elif "reverse"==code[0]:
-        Lista.reverse()
-    elif "print"==code[0]:
-        print(Lista)
+        if code[0]=="insert":
+            Lista.insert(int(code[1]), int(code[2]))
+        elif code[0]=="remove":
+            Lista.remove(int(code[1]))
+        elif code[0]=="append":
+            Lista.append(int(code[1]))
+        elif code[0]=="sort":
+            Lista.sort()
+        elif code[0]=="pop":
+            Lista.pop()
+        elif code[0]=="reverse":
+            Lista.reverse()
+        elif code[0]=="print":
+            print(Lista)
