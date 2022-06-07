@@ -25,3 +25,7 @@
 * List Comprehensions [[code](https://github.com/gnvidal/Hackerrank_solutions/blob/main/CODE/Basic_Data_Types/8List%20_Comprehensions.py)]
 * Find the Runner-Up Score! [[code](https://github.com/gnvidal/Hackerrank_solutions/blob/main/CODE/Basic_Data_Types/9Find_the_Runner-Up_Score!.py)]
 * Nested lists [[code](https://github.com/gnvidal/Hackerrank_solutions/blob/main/CODE/Basic_Data_Types/10Nested_lists.py)]
+* Finding the percentage [[code](https://github.com/gnvidal/Hackerrank_solutions/blob/main/CODE/Basic_Data_Types/10Nested_lists.py)]
+* Lists  [[code](https://github.com/gnvidal/Hackerrank_solutions/blob/main/CODE/Basic_Data_Types/12%20Lists.py)]
+* Tuples  [[code](https://github.com/gnvidal/Hackerrank_solutions/blob/main/CODE/Basic_Data_Types/10Nested_lists.py)]
+
